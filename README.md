@@ -36,5 +36,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-:fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenform)](https://github.com/anuraghazra/github-readme-stats)
