@@ -37,4 +37,4 @@
 </div>
 <br>
 :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=kenform
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kenform)](https://git.io/streak-stats)
