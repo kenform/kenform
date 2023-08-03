@@ -37,4 +37,4 @@
 </div>
 <br>
 :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com?user=kenform&theme=dark&background=000000
+[http://github-readme-streak-stats.herokuapp.com?user=kenform&theme=dark&background=000000](https://github-readme-streak-stats.herokuapp.com/?user=kenform)https://github-readme-streak-stats.herokuapp.com/?user=kenform
