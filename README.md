@@ -1,7 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div> <img src="https://komarev.com/ghpvc/?username=kenform&style=flat-square&color=blue" alt=""/></div>
+<div id="header" align="center">`
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 
@@ -35,7 +37,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kenform&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenform)](https://github.com/anuraghazra/github-readme-stats)
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <div> <img src="https://komarev.com/ghpvc/?username=kenform&style=flat-square&color=blue" alt=""/></div>
